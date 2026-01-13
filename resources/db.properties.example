@@ -1,0 +1,6 @@
+# Database Configuration
+# Copy this file to db.properties and update with your credentials
+
+db.url=jdbc:mysql://localhost:3306/bank_management_system
+db.user=root
+db.password=your_password_here
