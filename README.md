@@ -244,13 +244,13 @@ java -cp "bin:mysql-connector-j-9.5.0.jar" management.Main
 
 1. Navigate to **Create Savings Account** or **Create Current Account**
 2. Fill in:
-   1) Account holder name
-   2) Initial deposit (Min Rs. 1000 for savings)
-   3) Phone number
-   4) Email
-   5) Address
-3. Click **Create Account**
-4. **Save the generated account number!**
+1) Account holder name
+2) Initial deposit (Min Rs. 1000 for savings)
+3) Phone number
+4) Email
+5) Address
+4. Click **Create Account**
+**Save the generated account number!**
 
 ### Performing Transactions
 
